@@ -15,10 +15,12 @@ header{
     height: 60px;
     font-size: .8125rem;
     font-weight: 600;
+   
 }
 header nav{
     display: flex;
     justify-content: flex-end;
+   margin: 10px;
     
 }
 .menu-navbar{
